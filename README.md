@@ -1,6 +1,6 @@
 ## Replication code for the paper
 
-Thorough documentation provided in the python notebooks.
+Thorough documentation provided in the jupyter notebooks.
 
 Directory "src" contains original data provided by the authors.
 
