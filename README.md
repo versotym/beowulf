@@ -1,4 +1,6 @@
-## Replication code for the paper
+## Reply to: Large-scale quantitative profiling of the Old English verse tradition (replication code)
+
+[pdf of the paper @ arXiv](https://arxiv.org/abs/1910.12927)
 
 Thorough documentation provided in the jupyter notebooks.
 
