@@ -1,6 +1,10 @@
-## Reply to: Large-scale quantitative profiling of the Old English verse tradition (replication code)
+Replication code for
 
-[pdf of the paper @ arXiv](https://arxiv.org/abs/1910.12927)
+----
+
+P. Plecháč, A. Cooper, B. Nagy, A. Šeļa (2021). [Beowulf single-authorship claim is unsupported](https://www.nature.com/articles/s41562-021-01222-5) Nature Human Behaviour 5, 1481–1483. doi: [10.1038/s41562-021-01222-5](https://doi.org/10.1038/s41562-021-01222-5)
+
+----
 
 Thorough documentation provided in the jupyter notebooks.
 
